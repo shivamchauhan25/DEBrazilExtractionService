@@ -1,0 +1,21 @@
+{
+  "ADR": {
+    "minimum_threshold": 100,
+    "maximum_threshold": 900
+  },
+  "GATM": {
+    "minimum_threshold": 160,
+    "maximum_threshold": 1000
+  },
+  "BRZ": {
+    "minimum_threshold": 150,
+    "maximum_threshold": 1200
+  },
+  "default": {
+    "minimum_threshold": 100,
+    "maximum_threshold": 1200,
+    "lower_aspect_ratio": 0.8,
+    "higher_aspect_ratio": 1.2,
+    "text_to_replace": "X"
+  }
+}
